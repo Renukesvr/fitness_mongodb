@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "sudan",
+    "Age": 23,
+    "Height": "174 cm",
+    "Weight": 88,
+    "Package": "Month",
+    "Name of the gym": "world gym",
+    "Goal": "muscle building"
+  },
+  {
+    "Name": "maaran",
+    "Age": 24,
+    "Height": "169 cm",
+    "Weight": 110,
+    "Package": "Annual",
+    "Name of the gym": "world gym",
+    "Goal": "weight loss"
+  }
+]
